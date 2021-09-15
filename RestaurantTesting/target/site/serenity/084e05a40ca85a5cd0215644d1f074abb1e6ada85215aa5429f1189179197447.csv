@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User with role delivery should view delivery items that are to be delivered,","Delivery user is logged in and navigates to delivery page","SUCCESS","2021-09-15T20:41:49.4961316+02:00[Europe/Skopje]","0.0","4.53"
+"User with role delivery should view delivery items that are to be delivered,","Delivery user is logged in and is on delivery page. There should be 2 deliveries (rows) in the table","SUCCESS","2021-09-15T20:41:54.7203001+02:00[Europe/Skopje]","0.0","3.01"
+"User with role delivery should view delivery items that are to be delivered,","Delivery user is logged in. For each delivery, there should be displayed","SUCCESS","2021-09-15T20:41:58.3352849+02:00[Europe/Skopje]","0.0","3.04"
+"User with role delivery should view delivery items that are to be delivered,","When a delivery user is logged in and views the list of deliveries and clicks on Delivered for Customer2 address,","SUCCESS","2021-09-15T20:42:01.9523263+02:00[Europe/Skopje]","0.0","3.38"
+"User with role delivery should view delivery items that are to be delivered,","Delivery user is logged in and is on the delivery page after clicking delivery","SUCCESS","2021-09-15T20:42:05.9303908+02:00[Europe/Skopje]","0.0","2.85"

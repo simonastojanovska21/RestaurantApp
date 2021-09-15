@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97425723-6fab-44dd-9a1b-f2c6a6be060c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vVd9yhkb2QxkXhnfnX7Fvam2yD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="starter.auth" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Simona\Desktop\RestaurantTesting\src\test\java\starter\stepdefinitions" />
+      <recent name="C:\Users\Simona\Desktop\RestaurantTesting\src\test\java\starter\navigation" />
+      <recent name="C:\Users\Simona\Desktop\RestaurantTesting\src\test\java\starter" />
+      <recent name="C:\Users\Simona\Desktop\RestaurantTesting\src\test\java" />
+      <recent name="C:\Users\Simona\Desktop\RestaurantTesting\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Simona\Desktop\RestaurantTesting\src\test\java" />
+      <recent name="C:\Users\Simona\Desktop\RestaurantTesting\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberTestSuite">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Searching for a term" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/search_by_keyword.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors starter.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RestaurantTesting" />
+      <option name="NAME_FILTER" value="^Searching for a term$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Searching for a term$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Searching for a term" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful login user to the web application" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/userManagement/loginUser.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors starter.stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="RestaurantTesting" />
+      <option name="NAME_FILTER" value="^Successful login user to the web application$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successful login user to the web application$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful login user to the web application" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RestaurantTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="starter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="starter" />
+      <option name="MAIN_CLASS_NAME" value="starter.CucumberTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberTestSuite" />
+        <item itemvalue="Cucumber Java.Scenario: Searching for a term" />
+        <item itemvalue="Cucumber Java.Scenario: Successful login user to the web application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97425723-6fab-44dd-9a1b-f2c6a6be060c" name="Default Changelist" comment="" />
+      <created>1626651043099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626651043099</updated>
+      <workItem from="1626651044620" duration="1386000" />
+      <workItem from="1626705307682" duration="326000" />
+      <workItem from="1626706075708" duration="17594000" />
+      <workItem from="1626781025006" duration="14568000" />
+      <workItem from="1626872739197" duration="9951000" />
+      <workItem from="1626955176027" duration="16621000" />
+      <workItem from="1627049467671" duration="3587000" />
+      <workItem from="1627134993256" duration="19980000" />
+      <workItem from="1627219902248" duration="19022000" />
+      <workItem from="1627304934206" duration="16519000" />
+      <workItem from="1627389015272" duration="29555000" />
+      <workItem from="1627473183967" duration="26637000" />
+      <workItem from="1627560299858" duration="42000" />
+      <workItem from="1627560362546" duration="19273000" />
+      <workItem from="1627649464291" duration="12954000" />
+      <workItem from="1631699622917" duration="14715000" />
+      <workItem from="1631730809504" duration="1281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

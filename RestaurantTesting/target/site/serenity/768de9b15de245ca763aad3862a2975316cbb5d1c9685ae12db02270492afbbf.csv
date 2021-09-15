@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Customer2 adds meals in shopping cart and can manipulate with the","Customer2 is on Shopping cart page and there should be 5 order items,","SUCCESS","2021-09-15T20:47:01.8946093+02:00[Europe/Skopje]","0.0","2.87"
+"Customer2 adds meals in shopping cart and can manipulate with the","Customer2 is on Shopping cart page and there should be 5 order items with below data,","SUCCESS","2021-09-15T20:47:05.3532714+02:00[Europe/Skopje]","0.0","3.14"
+"Customer2 adds meals in shopping cart and can manipulate with the","Customer2 is on Shopping cart page and clicks on the delete button next to Meal6 (order item with id 7), total=380","SUCCESS","2021-09-15T20:47:09.0915973+02:00[Europe/Skopje]","0.0","2.89"
+"Customer2 adds meals in shopping cart and can manipulate with the","Customer2 clicks on continue shopping button and he is redirected to menu page","SUCCESS","2021-09-15T20:47:12.5819993+02:00[Europe/Skopje]","0.0","3.12"
+"Customer2 adds meals in shopping cart and can manipulate with the","Customer2 is on shopping cart page and clicks on check out button, and he is redirected to /checkOut page","SUCCESS","2021-09-15T20:47:16.3034002+02:00[Europe/Skopje]","0.0","2.79"
+"Customer2 adds meals in shopping cart and can manipulate with the","Customer2 is on checkout page and total is 380, delivery fee 0 and total with delivery is 380","SUCCESS","2021-09-15T20:47:19.685364+02:00[Europe/Skopje]","0.0","4.3"

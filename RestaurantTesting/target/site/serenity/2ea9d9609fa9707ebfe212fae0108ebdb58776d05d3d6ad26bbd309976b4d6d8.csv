@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User views his profile page","Admin user clicks on profile button","SUCCESS","2021-09-15T20:49:33.2975455+02:00[Europe/Skopje]","0.0","6.37"
+"User views his profile page","Customer user clicks on profile button","SUCCESS","2021-09-15T20:49:40.2989553+02:00[Europe/Skopje]","0.0","6.81"
+"User views his profile page","Delivery user clicks on profile button","SUCCESS","2021-09-15T20:49:47.7114262+02:00[Europe/Skopje]","0.0","6.87"
+"User views his profile page","Employee user clicks on profile button","SUCCESS","2021-09-15T20:49:55.1663201+02:00[Europe/Skopje]","0.0","6.87"
+"User views his profile page","Customer should see his private information","SUCCESS","2021-09-15T20:50:02.6245296+02:00[Europe/Skopje]","0.0","2.82"
+"User views his profile page","Customer user leaves a review","SUCCESS","2021-09-15T20:50:06.0279487+02:00[Europe/Skopje]","0.0","3.07"

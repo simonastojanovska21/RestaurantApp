@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login user","Successful login user to the web application","SUCCESS","2021-09-15T20:49:17.0299201+02:00[Europe/Skopje]","0.0","2.3"
+"Login user","Login with empty username","SUCCESS","2021-09-15T20:49:19.9276607+02:00[Europe/Skopje]","0.0","2.29"
+"Login user","Login with empty password","SUCCESS","2021-09-15T20:49:22.8223882+02:00[Europe/Skopje]","0.0","2.26"
+"Login user","Login with invalid username or password","SUCCESS","2021-09-15T20:49:25.6754857+02:00[Europe/Skopje]","0.0","2.29"
+"Login user","Logout user","SUCCESS","2021-09-15T20:49:28.5534971+02:00[Europe/Skopje]","0.0","4.14"
